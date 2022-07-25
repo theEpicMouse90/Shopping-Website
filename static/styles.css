@@ -1,0 +1,47 @@
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: lightgreen;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: mediumpurple;
+  background-color: transparent;
+  text-decoration: underline;
+}
+h1{
+	font-family: Georgia;
+	color: black;
+	text-align: center;
+}
+#test{
+	text-decoration-color: blue;
+	font-family: 'Times New Roman';
+	color: skyblue;
+	text-align: left;
+}
+img{
+	border: 5px solid #000000;
+}
+table, th, td {
+  border: 5px solid black;
+  border-collapse: collapse;
+}
+table{
+	width: 100%;
+}
+.Menu{
+	background-color: green;
+}
+.Shop{
+	background-color: skyblue;
+}
